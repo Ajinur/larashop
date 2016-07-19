@@ -1,0 +1,6 @@
+[12-May-2016 14:02:59 America/New_York] PHP Parse error:  syntax error, unexpected '...' (T_ELLIPSIS) in /home/budipsak/public_html/larashop/protected/config/database.php on line 84
+[12-May-2016 14:03:18 America/New_York] PHP Parse error:  syntax error, unexpected '...' (T_ELLIPSIS) in /home/budipsak/public_html/larashop/protected/config/database.php on line 84
+[12-May-2016 14:04:24 America/New_York] PHP Parse error:  syntax error, unexpected '...' (T_ELLIPSIS) in /home/budipsak/public_html/larashop/protected/config/database.php on line 84
+[12-May-2016 14:19:27 America/New_York] PHP Parse error:  syntax error, unexpected 'App' (T_STRING), expecting ']' in /home/budipsak/public_html/larashop/protected/config/app.php on line 165
+[12-May-2016 14:19:43 America/New_York] PHP Parse error:  syntax error, unexpected 'App' (T_STRING), expecting ']' in /home/budipsak/public_html/larashop/protected/config/app.php on line 165
+[12-May-2016 14:20:11 America/New_York] PHP Parse error:  syntax error, unexpected 'App' (T_STRING), expecting ']' in /home/budipsak/public_html/larashop/protected/config/app.php on line 165
